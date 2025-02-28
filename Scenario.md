@@ -1,6 +1,6 @@
 # Scenario
 
-Disclaimer:
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 One of the most valuable assets in the world today is information. 
 Most information is accessed over a network. There tend to be a variety of devices connected to a network and each is a potential entry point to other assets.
